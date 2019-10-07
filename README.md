@@ -4,4 +4,4 @@
 * [Rohit](https://github.com)
 * [Archit Awasthi](https://archit023.github.io)
 * [Vivek Kumar Kanaujia](https://github.com/vivekaris)
-* [Pushpraj Kumar] (https://onemoreprince.com)
+* [Pushpraj] (https://onemoreprince.com)
